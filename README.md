@@ -15,5 +15,5 @@ I also love to build applications to help make my life easier, using my gadgets 
 - 👯 I’m looking to collaborate on real life projects to further hone my skills in web development.
 - 🤔 I’m looking for help with securing my first developer role.
 - 📫 How to reach me on twitter @OlanrewajuAb
-- 😄 Pronouns: He
+- 😄 Pronoun: He
 - ⚡ Fun fact: I'm over 20, but still scared of a nursing Hen.
