@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**sabbCodes/sabbCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm Sarafa Abbas✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a frontend dev, android and iOS developer based out of Nigeria.
+
+I enjoy writing codes to build amazing web and mobile applications, mostly to solve problems for end users.
+
+I also love to build applications to help make my life easier, using my gadgets daily.
+
+- 🔭 I’m always working on improving my skills.
+- 🌱 I’m currently learning android and iOS development on Coursera.
+- 👯 I’m looking to collaborate on real life projects to further hone my skills in web development.
+- 🤔 I’m looking for help with securing my first developer role.
+- 📫 How to reach me on twitter @OlanrewajuAb
+- 😄 Pronouns: He
+- ⚡ Fun fact: I'm over 20, but still scared of a nursing Hen.
