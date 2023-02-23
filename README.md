@@ -2,9 +2,7 @@
 
 And welcome to my GitHub profile.
 
-I'm Sarafa Abbas✨
-
-I'm a frontend dev, android and iOS developer based out of Nigeria.
+I'm Sarafa Abbas✨ frontend, android and iOS developer based out of Nigeria.
 
 I enjoy writing codes to build amazing web and mobile applications, mostly to solve problems for end users.
 
